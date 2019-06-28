@@ -1,0 +1,4 @@
+vhdl work "SevenSegment.vhd"
+vhdl work "LightControl.vhd"
+vhdl work "ClockDevider.vhd"
+vhdl work "TopModule.vhd"

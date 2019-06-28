@@ -1,0 +1,4 @@
+vhdl work "E:\2210171003\TrafficLight\SevenSegment.vhd"
+vhdl work "E:\2210171003\TrafficLight\LightControl.vhd"
+vhdl work "E:\2210171003\TrafficLight\ClockDevider.vhd"
+vhdl work "E:\2210171003\TrafficLight\TopModule.vhd"

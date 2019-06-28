@@ -1,0 +1,22 @@
+V3 15
+FL E:/2210171003/TrafficLight/ClockDevider.vhd 2018/06/07.17:09:27 P.20131013
+EN work/ClockDevider 1528366179 FL E:/2210171003/TrafficLight/ClockDevider.vhd \
+      PB ieee/std_logic_1164 1364358218 PB ieee/STD_LOGIC_UNSIGNED 1364358221
+AR work/ClockDevider/Behavioral 1528366180 \
+      FL E:/2210171003/TrafficLight/ClockDevider.vhd EN work/ClockDevider 1528366179
+FL E:/2210171003/TrafficLight/LightControl.vhd 2018/06/07.15:56:14 P.20131013
+EN work/LightControl 1528366181 FL E:/2210171003/TrafficLight/LightControl.vhd \
+      PB ieee/std_logic_1164 1364358218 PB ieee/STD_LOGIC_UNSIGNED 1364358221
+AR work/LightControl/Behavioral 1528366182 \
+      FL E:/2210171003/TrafficLight/LightControl.vhd EN work/LightControl 1528366181
+FL E:/2210171003/TrafficLight/SevenSegment.vhd 2018/06/07.15:55:22 P.20131013
+EN work/SevenSegment 1528366183 FL E:/2210171003/TrafficLight/SevenSegment.vhd \
+      PB ieee/std_logic_1164 1364358218 PB ieee/STD_LOGIC_UNSIGNED 1364358221
+AR work/SevenSegment/Behavioral 1528366184 \
+      FL E:/2210171003/TrafficLight/SevenSegment.vhd EN work/SevenSegment 1528366183
+FL E:/2210171003/TrafficLight/TopModule.vhd 2018/06/07.15:14:21 P.20131013
+EN work/TopModule 1528366185 FL E:/2210171003/TrafficLight/TopModule.vhd \
+      PB ieee/std_logic_1164 1364358218
+AR work/TopModule/Behavioral 1528366186 \
+      FL E:/2210171003/TrafficLight/TopModule.vhd EN work/TopModule 1528366185 \
+      CP ClockDevider CP LightControl CP SevenSegment

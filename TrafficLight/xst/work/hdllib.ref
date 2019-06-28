@@ -1,0 +1,8 @@
+AR clockdevider behavioral E:/2210171003/TrafficLight/ClockDevider.vhd sub00/vhpl02 1528366180
+AR sevensegment behavioral E:/2210171003/TrafficLight/SevenSegment.vhd sub00/vhpl04 1528366184
+AR topmodule behavioral E:/2210171003/TrafficLight/TopModule.vhd sub00/vhpl07 1528366186
+EN lightcontrol NULL E:/2210171003/TrafficLight/LightControl.vhd sub00/vhpl00 1528366181
+EN sevensegment NULL E:/2210171003/TrafficLight/SevenSegment.vhd sub00/vhpl03 1528366183
+AR lightcontrol behavioral E:/2210171003/TrafficLight/LightControl.vhd sub00/vhpl05 1528366182
+EN topmodule NULL E:/2210171003/TrafficLight/TopModule.vhd sub00/vhpl06 1528366185
+EN clockdevider NULL E:/2210171003/TrafficLight/ClockDevider.vhd sub00/vhpl01 1558320638
